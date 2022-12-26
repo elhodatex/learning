@@ -1,0 +1,19 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+thebestschools.org	TRUE	/	FALSE	1999999999	tglr_anon_id	4d36c0e2-a8cc-4cd7-93f4-5a3eced136a6
+thebestschools.org	TRUE	/	FALSE	1999999999	tglr_http_only	4d36c0e2-a8cc-4cd7-93f4-5a3eced136a6
+thebestschools.org	TRUE	/	FALSE	1999999999	tglr_hash_id	h_f583a5e1bcf45f7e88a10f0e0902db68745ae188c281353e7db53c2b6e2b0b83
+content.cmn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:4471941039550844786
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=VGST06:s=V:r=V:a=V:p=V:g=2552:u=1:x=1:i=1671970490:t=1672056890:v=2:sig=AQHKAXSdDGsMsZAKRywLnazpHWsyRgG-"
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A167197287853440781
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A167197287853440781
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_4syazWEPkLMfogtv9pWevA=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A167197287853440781
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&5cf7b33e-a51a-4b63-8de4-d87b9eee1519"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20221225125438d3db1eaf-f2f9-4d4a-8977-2525243f88f4AQHfBCBXYpi6j2kJIZUMwsj6zE_XA5Ww"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+
